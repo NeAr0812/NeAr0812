@@ -1,8 +1,4 @@
-udemy向けLaravel講座のコードになります。
-
-## URL
-
-https://coinbaby8.com/udemy-php.html
+udemy     練習用
 
 ## インストール方法
 
